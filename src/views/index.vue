@@ -10,4 +10,4 @@ getUserInfo().then(function (res) {
   console.log(res)
 })
 </script>
-<style lang="scss" scoped></style>
+<style scoped></style>

@@ -1,5 +1,5 @@
 <template>
-  <div>入口</div>
+  <h1 class="text-3xl font-bold underline">Hello world!</h1>
   <a href="/test/index">跳转/test/index</a>
 </template>
 <script setup>
